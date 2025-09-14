@@ -1,16 +1,17 @@
-print("Here comes the calculation of the number of the wild beast.")
-perfect_number = 144000
-print(f"The perfect number is {perfect_number}.")
-one_thousandth = int(perfect_number / 1000)
-print(f"One thousandth of it is {one_thousandth}.")
-corrupted_number = perfect_number - one_thousandth
-print(f"You corrupt the perfect number {perfect_number} by subtracting one thousandth, which results in {corrupted_number}.")
-imperfect_number = 7 - 1
-print(f"Then you divide it three times by an imperfect number = {imperfect_number}.")
-divide_once = int(corrupted_number / imperfect_number)
-print(f"{corrupted_number} / {imperfect_number} = {divide_once} ---> which is also 24000 - 24 (again one thousandth).")
-divide_twice = int(divide_once / imperfect_number)
-print(f"{divide_once} / {imperfect_number} = {divide_twice} ---> which is also 4000 - 4 (again one thousandth).")
-divide_thrice = int(divide_twice / imperfect_number)
-print(f"{divide_twice} / {imperfect_number} = {divide_thrice} ---> which is also 666.")
-print(f"So, the number of the wild beast is calculated exactly like this.")
+# Simple Python implementation of the "Number of the Beast" calculation
+def calculate_beast_number():
+    perfection = 144000  # Biblical symbol of perfection (Rev 7:4)
+    lack = perfection // 1000  # 1/1000, symbolizing human imperfection (2 Pet 3:8)
+    imperfect = perfection - lack  # 143856
+    
+    # Triple division by 6 (imperfection)
+    result1 = imperfect // 6  # 23976
+    result2 = result1 // 6    # 3996
+    beast = result2 // 6      # 666
+    
+    print(f"Starting from perfection: {perfection}")
+    print(f"Subtract lack: {imperfect}")
+    print(f"Divide by 6 (x3): {beast}")
+    return beast
+
+calculate_beast_number()  # Output: 666
