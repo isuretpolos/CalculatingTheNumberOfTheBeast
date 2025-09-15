@@ -76,4 +76,4 @@ Again, at each level it lacks 1/1,000.
 ````
 
 # See also
-- [On Revelation 13:18](doc/relevation_13_18.md)
+- [On Revelation 13:18](doc/revelation_13_18.md)
