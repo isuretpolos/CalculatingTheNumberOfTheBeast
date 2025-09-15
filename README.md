@@ -74,3 +74,6 @@ Again, at each level it lacks 1/1,000.
 ````math
 3,996 ÷ 6 = 666
 ````
+
+# See also
+- [On Revelation 13:18](doc/relevation_13_18.md)
