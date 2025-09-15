@@ -36,7 +36,7 @@ I completely reject Gematria as an approach to calculating the number of the Bea
 12 × 12,000 = 144,000
 ````
 
-6) Both numbers, 666 and 144,000, are contrary to each other in their symbolic meaning. 666 means absolute imperfection, and 144,000 means absolute perfection in conjunction with heaven's organization. The Wild Beast is in contrast to the Lamb and his followers.
+6) Both numbers, 666 and 144,000, are contrary to each other in their symbolic meaning. 666 means absolute imperfection, and 144,000 means absolute perfection in conjunction with heaven's organization. The Wild Beast is in contrast to the Lamb and his followers. The number 144,000 resides in the same context of the number 666, just one vers later in Revelation 14:1.
 
 7) Ecclesiastes chapter 1 gives us a clue: what is lacking cannot be counted. The entire book of Ecclesiastes talks about the perfect eternal cycles of nature and the vanity of imperfect human beings seeking to gain fame in this old system. This contrast is similar to Revelation chapters 13 and 14, where both numbers are put in comparison.
 
