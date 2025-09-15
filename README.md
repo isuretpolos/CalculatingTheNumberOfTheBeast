@@ -91,6 +91,17 @@ Again, at each level it lacks 1/1,000.
 3,996 ÷ 6 = 666
 ````
 
+# The Use of “Psephisatō” in Other Ancient Texts
+The word “psephisatō” (aorist imperative of psephizō, ψηφίζω) is used in Revelation 13:18 and translated as “calculate” or “compute.” The mathematical nuance dominates in contextual usage, reinforcing “psephisatō” as a call for an arithmetic operation (not just counting or understanding).
+
+## Classical Greek (e.g., Polybius and Plutarch)
+Psephizō is often used for “calculating” or “estimating,” typically with pebbles as a computational tool. Polybius (Histories, ca. 150 BCE) uses it in Book 6 for tallying votes in assemblies, but implicitly arithmetically (counting and adding pebbles). Plutarch (Moralia) describes it as “compute” in financial contexts, e.g., estimating costs—similar to Luke 14:28 (NT: “calculate the cost”). This shows it goes beyond mere counting and includes operations like addition/subtraction.
+
+## Mathematical Context in Antiquity
+Greeks used “psephoi” (pebbles) for calculations on counting boards (e.g., Salamis Tablet, ca. 300 BCE), a precursor to the abacus. Aristotle (Politics) mentions psephizō in the sense of “computing” numbers in economics. Herodotus (Histories) uses related forms for “calculating” distances or quantities, implying a true mathematical operation, not just enumerative counting.
+
+## Difference from “Counting/Understanding”
+While the voting meaning (e.g., in Thucydides: casting pebbles for decisions) is metaphorical, the computational meaning prevails in technical texts. In the NT (outside Revelation), Luke 14:28 says: “Sit down and calculate (psephisai) the cost”—here, it involves subtraction/division of resources, not simple counting. Lexicons like Liddell-Scott-Jones confirm: primarily “compute by counters,” secondarily “vote.” In Revelation 13:18, it thus calls for a deliberate arithmetic process, fitting the subtraction and division described in the text.
 
 # Former approaches to Discovering the Formula
 The absence of a specific formula in Revelation 13:18 has led to various interpretive approaches to “calculate” the number 666, each reflecting different ways readers have sought to uncover the method:
@@ -114,8 +125,21 @@ Some scholars and theologians argue that the call to “calculate” is less abo
 
 In modern times, some have proposed creative or speculative methods, such as linking 666 to numerical patterns in technology (e.g., barcodes or digital systems), though these often lack biblical grounding.
 
+# Why Gematria Does Not Fit in Revelation
+The common interpretation of 666 as gematria (numerical value of letters, e.g., “Nero Caesar” in Hebrew transliteration = 666) is problematic because it ignores the audience, historical context, and symbolism of Revelation. Revelation was addressed to Greek-speaking Christians in Asia Minor (e.g., Ephesus, Smyrna; Rev. 1:4, 11), who were not primarily familiar with Hebrew gematria.  Gematria was a Jewish/Greco-Roman practice but not common among early Christians for biblical exegesis.
+
+## Audience and Familiarity with Hebrew Gematria
+The readers were primarily Gentile Christian communities in the Roman province of Asia, who spoke Greek and read the NT in Greek. Hebrew gematria (Mispar Gadol) required knowledge of the Hebrew alphabet and transliteration (e.g., “Nron Qsr” for Nero). Many early Christians did not know Hebrew; the Septuagint (Greek Bible translation) was standard. To recognize 666 as “Nero,” readers would need to transliterate Nero’s name into Hebrew—a complex step most would not know.  Jewish texts like the Sibylline Oracles used gematria, but this was obscure and not mainstream for Christians. Revelation emphasizes symbolic wisdom (“Let him who has understanding calculate”), not linguistic puzzles.
+
+## Evidence Against Nero as the “Beast”
+The Nero theory (Nero redivivus myth: Nero as a returning tyrant) does not fit seamlessly. First: In Greek gematria, “Nero Caesar” yields 1005, not 666—only the Hebrew variant (without the vowel “e”) works, which feels contrived. Second: The beast in Rev. 13 has 7 heads and 10 horns (symbolizing a global empire, cf. Daniel 7), which exceeds Nero (merely one emperor among many). The “fatal wound” (Rev. 13:3) is healed, suggesting an enduring system, not Nero’s suicide in 68 CE.  Third: If the beast were Nero, the prophecy would have failed—the harvest in Rev. 14 (post-beast) has not occurred, implying a 2000-year “gap” that undermines the apocalyptic urgency.  Instead, 666 symbolizes a human system of imperfection (“the number of a man”), as derived arithmetically in the GitHub text.
+
+Overall, the symbolic, arithmetic interpretation (without gematria) better aligns with the biblical message, as it is universally accessible and emphasizes contrasts with perfection (144,000).
+
 # Historical and Contextual Clues
 
 The historical context of Revelation, likely written during the late 1st century under Roman persecution, suggests that the number 666 could point to a figure or system of that era, such as Emperor Nero or the Roman Empire. However, the prophecy described in Revelation 12–13, which details the cosmic battle involving the dragon, the woman, and the beast, was not yet fulfilled during the time of its writing. These chapters are widely understood by many scholars to refer to future eschatological events, likely tied to the end times, rather than events unfolding in the immediate context of the late 1st century. This future-oriented nature of the prophecy could mislead early readers into assuming that gematria—a common method of assigning numerical values to letters to decode names—would be sufficient to identify a specific person or entity living in their own time, such as a contemporary ruler or figure like Nero. While gematria was a familiar practice in Jewish and early Christian circles, applying it to pinpoint a living individual might oversimplify the prophecy’s broader scope, which may encompass a system, ideology, or figure yet to emerge.
 Readers in the original context might have been tempted to use gematria or contextual knowledge to identify the referent of 666, given its cultural prevalence and the immediate pressures of Roman persecution. For example, the Hebrew spelling of “Neron Caesar” (נרון קסר) sums to 666, making Nero a plausible candidate in the minds of early Christians familiar with his persecution of the church. However, the unfulfilled nature of the prophecy suggests that the beast and its number may point to a reality beyond the 1st century, potentially leading to misinterpretations if readers focused solely on contemporary figures.
 The method for calculating the number could also involve recognizing patterns in Revelation’s vivid imagery, such as the beast’s “seven heads and ten horns” (Revelation 13:1), which symbolize authority, power, and opposition to God. These symbols might inform the calculation symbolically or contextually, pointing not just to a single person but to a broader system or coalition of powers that would only fully manifest in the future. Thus, while gematria offers a compelling tool for decoding the number 666, the prophetic context of Revelation 12–13 warns against limiting its interpretation to a person or entity present at the time of writing, encouraging readers to seek wisdom in discerning its ultimate fulfillment.
+
+
