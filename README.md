@@ -22,7 +22,7 @@ I completely reject Gematria as an approach to calculating the number of the Bea
 
 ## Full Process of Calculation
 
-1) **[666 is the result of an arithmetic calculation](calculate_the_number_of_the_wild_beast.py)**, not the base for [gematria](doc/gematria_wrong_approach.md) or a numerological number puzzle. The Greek word used for "calculate" in Revelation 13:18 is ψηφισάτω (psephisatō), which comes from the root ψηφίζω (psephizō). This word has a double meaning for mathematical calculation: counting/computing with pebbles (like an abacus) and also decision-making through voting by casting pebbles into urns to make choices.
+1) **[666 is the result of an arithmetic calculation](calculate_the_number_of_the_wild_beast.py)**, not the base for gematria or a numerological number puzzle. The Greek word used for "calculate" in Revelation 13:18 is ψηφισάτω (psephisatō), which comes from the root ψηφίζω (psephizō). This word has a double meaning for mathematical calculation: counting/computing with pebbles (like an abacus) and also decision-making through voting by casting pebbles into urns to make choices.
 
 2) The number is a **symbolic name** pointing toward human beings, 10 horns, and 7 heads. In a broader sense, it represents a political system formed by the Devil himself as a consequence of his defeat in the war in heaven (Revelation 12 + 13), which is the Wild Beast (wild = untamable).
 
