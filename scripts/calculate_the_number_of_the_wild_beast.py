@@ -130,6 +130,9 @@ def render(args) -> int:
     print(f"{c.bold}Result:{c.reset} {c.red}{data['beast']}{c.reset}")
     print(hr())
 
+    if args.proof:
+        print(f"Proof: 666*216 + 144 = {666*216 + 144} (should be 144000)")
+
     if not args.brief:
         subtitle(c, "Notes")
         bullet(c, "The arithmetic mirrors the symbolism; the method and result carry the same meaning.")
@@ -145,6 +148,7 @@ def main(argv=None) -> int:
     )
     p.add_argument("--no-color", action="store_true", help="Disable ANSI colors.")
     p.add_argument("--brief", action="store_true", help="Show a compact output.")
+    p.add_argument("--proof", action="store_true", help="Reverse calculation.")
     args = p.parse_args(argv)
     return render(args)
 

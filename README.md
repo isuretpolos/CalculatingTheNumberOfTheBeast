@@ -48,7 +48,7 @@ The most common Gematria theory connects 666 to Nero Caesar, either through Hebr
 
 ## A Biblical Arithmetic Framework
 
-Revelation interprets numbers symbolically: [7 for perfection](more/7.md), 6 for imperfection. Numbers must be read within this biblical framework, not with foreign tools.
+Revelation interprets numbers symbolically: [7 for perfection](more/six-plus-one.md), 6 for imperfection. Numbers must be read within this biblical framework, not with foreign tools.
 
 Other Scriptures confirm this logic. Ecclesiastes 1:15 observes, “That which is lacking cannot be numbered,” suggesting subtraction as a sign of imperfection. 2 Peter 3:8 reminds us, “With the Lord, one day is as a thousand years.” Genesis 2–3 shows Adam dying short of a full thousand-year “day.”
 
@@ -197,5 +197,17 @@ To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects re
 
 **Thus, 666 should not be solved by Gematria. It must be understood within Scripture’s own framework of numbers and symbols, as a call to recognize the imperfection of human systems in contrast to God’s perfection.**
 
-# Math scripts
+---
+
+# More
+- [7 for perfection](more/six-plus-one.md)
+- [Close form derivation](more/closed-form-derivation.md)
+- [Numbers - Quick Reference](more/numbers-quick-reference.md)
+- [Lexical Note: *psephizō*](more/lexical-note-psephizo.md)
+- [Textual Note: 616 Variant](more/textual-note-616.md)
+- [Methodological Principles](more/methodological-principles.md)
+- [FAQ](more/faq.md)
+- [Calculation Flow](more/calculation-flow.md)
+
+## Math scripts
 Python: [calculate_the_number_of_the_wild_beast.py](scripts/calculate_the_number_of_the_wild_beast.py)
