@@ -48,7 +48,7 @@ The most common Gematria theory connects 666 to Nero Caesar, either through Hebr
 
 ## A Biblical Arithmetic Framework
 
-Revelation interprets numbers symbolically: 7 for perfection, 6 for imperfection. Numbers must be read within this biblical framework, not with foreign tools.
+Revelation interprets numbers symbolically: [7 for perfection](more/7.md), 6 for imperfection. Numbers must be read within this biblical framework, not with foreign tools.
 
 Other Scriptures confirm this logic. Ecclesiastes 1:15 observes, “That which is lacking cannot be numbered,” suggesting subtraction as a sign of imperfection. 2 Peter 3:8 reminds us, “With the Lord, one day is as a thousand years.” Genesis 2–3 shows Adam dying short of a full thousand-year “day.”
 
