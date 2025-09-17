@@ -109,6 +109,8 @@ The most common Gematria theory connects 666 to Nero Caesar, either through Hebr
 3. **Mismatch with the Beast’s symbolism:** Revelation 13 describes a beast with seven heads and ten horns, symbolizing a global system (cf. Daniel 7), not a single emperor. The “fatal wound” that is healed points to an enduring empire or coalition, not Nero’s suicide in 68 CE.
 4. **Failure of timing:** If the Beast were Nero, Revelation’s timeline would collapse. The harvest of Revelation 14 occurs after the Beast’s activity, but this harvest has not yet taken place. That gap of nearly two millennia shows that Nero cannot be the referent.
 
+Why would John rely on Hebrew gematria—for example, encoding “Nero Caesar” in Hebrew—if the Jewish system had already been set aside and his audience were predominantly Greek-speaking Christian congregations? Such a choice would re-center a superseded linguistic-religious framework, make the message needlessly esoteric and inaccessible to his readers, and undercut Revelation’s universal scope. If the covenantal administration had passed, it is more coherent that John used transparent, symbolic arithmetic (e.g., 12×12,000; the triad of sixes) rather than a Hebrew letter-value cipher that few Gentile believers could compute or verify.
+
 ---
 
 ## A Biblical Arithmetic Framework
@@ -194,3 +196,6 @@ Thus, Revelation does not merely present the number 666—it provides a framewor
 To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects reliance on human tradition rather than Scripture. As Paul reminded Timothy, “All Scripture is inspired of God and beneficial” (2 Timothy 3:16–17). Revelation itself provides the framework: calculation through symbolic arithmetic, not hidden letter values.
 
 **Thus, 666 should not be solved by Gematria. It must be understood within Scripture’s own framework of numbers and symbols, as a call to recognize the imperfection of human systems in contrast to God’s perfection.**
+
+# Math scripts
+Python: [calculate_the_number_of_the_wild_beast.py](scripts/calculate_the_number_of_the_wild_beast.py)
