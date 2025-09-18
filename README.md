@@ -27,6 +27,8 @@ Finally, Ecclesiastes 1:15 (“What is lacking cannot be counted”) resonates w
 
 ## Against Gematria as a Method
 
+> I really don’t understand the hype around Gematria. It’s like an engineer using the best tools to build a machine, only to pick up a hammer for the final screw.
+
 Many interpreters have tried to decode the number of the Beast, 666, through **Gematria**, the practice of assigning numerical values to letters. This method is not only absent from Scripture but also misleading. Revelation itself calls us to “calculate the number,” and when we examine how numbers are presented in the book, it becomes clear that the Bible points us toward simple arithmetic, not hidden codes.
 
 In Revelation 7:4–8, the number 144,000 is explicitly given as 12 × 12,000. This shows that numbers in Revelation are revealed through straightforward calculation. If Gematria were intended for 666, why would Revelation use transparent multiplication for 144,000 only a few chapters earlier? The text itself calls for consistency.
