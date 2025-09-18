@@ -203,6 +203,7 @@ To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects re
 - [7 for perfection](more/six-plus-one.md)
 - [Close form derivation](more/closed-form-derivation.md)
 - [Numbers - Quick Reference](more/numbers-quick-reference.md)
+- [Mathematical Elegance](more/mathematical-elegance.md)
 - [Lexical Note: *psephizō*](more/lexical-note-psephizo.md)
 - [Textual Note: 616 Variant](more/textual-note-616.md)
 - [Methodological Principles](more/methodological-principles.md)
