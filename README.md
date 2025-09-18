@@ -213,7 +213,8 @@ To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects re
 - [Calculation Flow](more/calculation-flow.md)
 - [Symbolic Flow](more/symbolic-value-flow.md)
 - [How to explain it](more/how-to-explain-it-01.md)
-- [Conversation with AI](more/conversation-with-ai-01.md)
+- [Conversation with AI - Claude](more/conversation-with-ai-01.md)
+- [Conversation with AI - Grok](more/conversation-with-ai-02.md)
 
 ## Math scripts
 Python: [calculate_the_number_of_the_wild_beast.py](scripts/calculate_the_number_of_the_wild_beast.py)
