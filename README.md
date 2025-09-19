@@ -216,5 +216,8 @@ To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects re
 - [Conversation with AI - Claude](more/conversation-with-ai-01.md)
 - [Conversation with AI - Grok](more/conversation-with-ai-02.md)
 
+## Implications
+- [The Garden and the Soil: Understanding Systemic Corruption](more/TheGardenAndTheSoil_UnderstandingSystemicCorruption.md)
+
 ## Math scripts
 Python: [calculate_the_number_of_the_wild_beast.py](scripts/calculate_the_number_of_the_wild_beast.py)
