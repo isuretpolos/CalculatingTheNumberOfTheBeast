@@ -192,6 +192,21 @@ This process is not arbitrary. Both the method and the result carry the same sym
 Thus, Revelation does not merely present the number 666—it provides a framework for the reader to discover it. The calculation invites reflection on the gulf between God’s perfection and human imperfection, contrasting the Lamb and his 144,000 with the Beast and his number.
 
 ---
+### As a homework for students:
+
+**How would you calculate the Number of the Wild Beast in Revelation 13:18?**
+
+Follow these rules:
+
+* Do not use gematria.
+* Avoid calculations that result in decimals (floating-point numbers).
+* Use only addition, subtraction, and multiplication.
+* Use the number 144,000 as a reference, because it is mentioned near 666. Note that 144,000 is not optional.
+* Remember that 666 is the result of the calculation. What you are searching for is the method of calculation.
+* The calculation should reflect imperfection, with the result being **666 = absolute imperfection on every level**.
+* Keep it simple. Do not use exaggerated or overly complex formulas.
+
+---
 
 ## Conclusion
 
