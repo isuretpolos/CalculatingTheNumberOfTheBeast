@@ -200,7 +200,7 @@ Follow these rules:
 
 * Do not use gematria.
 * Avoid calculations that result in decimals (floating-point numbers).
-* Use only addition, subtraction, and multiplication.
+* Use only addition / subtraction, and multiplication / division.
 * Use the number 144,000 as a reference, because it is mentioned near 666. Note that 144,000 is not optional.
 * Remember that 666 is the result of the calculation. What you are searching for is the method of calculation.
 * The calculation should reflect imperfection, with the result being **666 = absolute imperfection on every level**.
