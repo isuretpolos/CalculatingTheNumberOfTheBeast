@@ -180,6 +180,7 @@ $$
 $$
 
 The final outcome is the number given in Revelation: **666**.
+The calculation represents a systematic degradation where each step lacks exactly 1/1000th of the next round thousand, till it arrives to 666, where the number itself contains three times 6.
 
 ### The Meaning of the Calculation
 
