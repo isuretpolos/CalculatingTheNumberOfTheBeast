@@ -231,6 +231,8 @@ To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects re
 - [How to explain it](more/how-to-explain-it-01.md)
 - [Conversation with AI - Claude](more/conversation-with-ai-01.md)
 - [Conversation with AI - Grok](more/conversation-with-ai-02.md)
+- [Quantum Entanglement between Words](https://arxiv.org/pdf/0901.4375)
+- [Scientists Model Words as Entangled Quantum States in our Minds](https://phys.org/news/2009-02-scientists-words-entangled-quantum-states.html)
 
 ## Implications
 - [The Garden and the Soil: Understanding Systemic Corruption](more/TheGardenAndTheSoil_UnderstandingSystemicCorruption.md)
