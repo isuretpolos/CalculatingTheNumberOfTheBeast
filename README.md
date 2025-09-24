@@ -153,6 +153,8 @@ $$
 
 The subtraction marks the transition from divine perfection to human imperfection.
 
+Regarding the criticism of *“arbitrariness in the choice of numbers and operations,”* especially the subtraction of 144: this number is not arbitrary. It represents 1/1000 of 144,000 within a broader context. Ecclesiastes chapter 1 must be taken into account. The context is not limited to Revelation alone, since it says *“let the one with insight calculate,”* which points to *deeper knowledge of the common thread running through the entire Bible* and the symbolism of the numbers 6, 7, 10, 12, 24, 144, and 1,000. The *imperfection* of the number 1,000 begins already with the *“lack”* of just 1—resulting in 999. This is why 144 is subtracted from 144,000.
+
 ### Step 3: Divide by Six, Three Times
 
 The number 6 is associated with humanity, created on the sixth day. Repeated three times, it represents complete or “absolute” imperfection. Revelation 13:18 emphasizes this triple form. The calculation now requires three successive divisions by 6:
