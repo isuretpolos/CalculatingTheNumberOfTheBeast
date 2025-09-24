@@ -209,6 +209,10 @@ Follow these rules:
 * The calculation should reflect imperfection, with the result being **666 = absolute imperfection on every level**.
 * Keep it simple. Do not use exaggerated or overly complex formulas.
 
+You can use this text to explain it further:
+
+The number 666 in Revelation 13:18 cannot be viewed in isolation but must be understood in connection with the biblical measure-numbers that are firmly established within the same book. The starting point is 144,000, the full number of the sealed ones (Rev. 7:4; 14:1), which in turn refers to 144, the measure of the city “according to a man’s measure, that is, an angel’s measure” (Rev. 21:17). From this divine fullness, 144 is subtracted, making visible that something essential is missing from the perfect measure—a direct indication of the tension between divine and human order. The result is then divided three times by 6, not arbitrarily, but because 6 is the number of man, created on the sixth day, and the threefold repetition in biblical usage signifies absolute emphasis. In this way, the divine fullness is step by step reduced into the humanly imperfect measure, which ultimately culminates in 666. Any alternative calculation must therefore demonstrate why it may dismiss 144,000 as the starting value, why it does not consider 144 as the measure-number, or why it avoids the use of 6 in its threefold intensification—and such a deviation must be justified on the basis of the Bible itself, not by extra-scriptural methods such as gematria, general number mysticism, or arbitrary simplifications.
+
 ---
 
 ## Conclusion
