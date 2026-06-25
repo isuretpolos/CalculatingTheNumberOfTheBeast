@@ -239,6 +239,7 @@ To insist on Gematria, despite the Bible’s own arithmetic pattern, reflects re
 - [Conversation with AI - Grok](more/conversation-with-ai-02.md)
 - [Quantum Entanglement between Words](https://arxiv.org/pdf/0901.4375)
 - [Scientists Model Words as Entangled Quantum States in our Minds](https://phys.org/news/2009-02-scientists-words-entangled-quantum-states.html)
+- [A Non-Gematria Arithmetic Calculation of 666 from Revelation: 144000, 144, and 6×6×6](https://medium.com/@isuret.polos/a-non-gematria-arithmetic-calculation-of-666-from-revelation-144000-144-and-6-6-6-27d796f29c3c)
 
 ## Implications
 - [The Garden and the Soil: Understanding Systemic Corruption](more/TheGardenAndTheSoil_UnderstandingSystemicCorruption.md)
