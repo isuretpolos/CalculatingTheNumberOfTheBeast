@@ -194,6 +194,8 @@ This process is not arbitrary. Both the method and the result carry the same sym
 
 Thus, Revelation does not merely present the number 666—it provides a framework for the reader to discover it. The calculation invites reflection on the gulf between God’s perfection and human imperfection, contrasting the Lamb and his 144,000 with the Beast and his number.
 
+![The calculation of 666 in one image](Calculation666.jpg)
+
 ---
 ### As a homework for students:
 
